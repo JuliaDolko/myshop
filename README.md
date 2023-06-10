@@ -1,4 +1,5 @@
 # SHOP4U Website
+<img width="1435" alt="Screenshot 2023-06-10 at 18 13 43" src="https://github.com/JuliaDolko/myshop/assets/95941618/cb6cee70-217c-43ed-93f7-fa45b4e72786">
 
 This is a React-based application that serves as an online store, allowing users to browse and purchase clothes. The project utilizes various technologies and frameworks, including **React, Vite, Strapi, Node.js, and Stripe**.
 
@@ -19,12 +20,12 @@ https://jubilant-rail-production.up.railway.app/
 - Node.js: A JavaScript runtime for server-side development
 - Stripe: A payment processing platform for online transactions
 
-<img width="1435" alt="Screenshot 2023-06-10 at 18 13 43" src="https://github.com/JuliaDolko/myshop/assets/95941618/fe52b187-2848-4ad5-839f-155689f4da9a">
-<img width="1427" alt="Screenshot 2023-06-10 at 18 14 17" src="https://github.com/JuliaDolko/myshop/assets/95941618/3c9fe640-7773-4b4a-adcb-5101a2103944">
-<img width="1428" alt="Screenshot 2023-06-10 at 18 14 41" src="https://github.com/JuliaDolko/myshop/assets/95941618/89538fcf-7e72-45db-8769-baf5dee382b0">
-<img width="1440" alt="Screenshot 2023-06-10 at 18 14 59" src="https://github.com/JuliaDolko/myshop/assets/95941618/a03247e7-96ef-4d04-9e04-4f3d10e08228">
-<img width="1440" alt="Screenshot 2023-06-10 at 18 14 26" src="https://github.com/JuliaDolko/myshop/assets/95941618/7b83bca5-6269-4831-acd3-dbc0e8ffb163">
-<img width="1414" alt="Screenshot 2023-06-10 at 18 15 19" src="https://github.com/JuliaDolko/myshop/assets/95941618/3613f809-ba88-4576-85bc-039f85ce87a3">
+<img width="1427" alt="Screenshot 2023-06-10 at 18 14 17" src="https://github.com/JuliaDolko/myshop/assets/95941618/a9cad13c-bba2-49af-9ab4-7f41964e698c">
+<img width="1428" alt="Screenshot 2023-06-10 at 18 14 41" src="https://github.com/JuliaDolko/myshop/assets/95941618/1f4be092-f9c6-48c7-8e50-5b649ecab82e">
+<img width="1440" alt="Screenshot 2023-06-10 at 18 14 59" src="https://github.com/JuliaDolko/myshop/assets/95941618/f47efefa-cac1-495c-af60-78084ce32007">
+<img width="1440" alt="Screenshot 2023-06-10 at 18 14 26" src="https://github.com/JuliaDolko/myshop/assets/95941618/ef4d524f-422e-4b78-b51b-e72ee975d93d">
+<img width="1414" alt="Screenshot 2023-06-10 at 18 15 19" src="https://github.com/JuliaDolko/myshop/assets/95941618/3c257556-f746-4f64-92ca-aab48cd2c731">
+
 
 
 //LamaDev tutorial used 
