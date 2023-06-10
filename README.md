@@ -20,7 +20,7 @@ https://jubilant-rail-production.up.railway.app/
 - Node.js: A JavaScript runtime for server-side development
 - Stripe: A payment processing platform for online transactions
 
-<img width="1427" alt="Screenshot 2023-06-10 at 18 14 17" src="https://github.com/JuliaDolko/myshop/assets/95941618/a9cad13c-bba2-49af-9ab4-7f41964e698c">
+<img width="1429" alt="Screenshot 2023-06-10 at 18 51 15" src="https://github.com/JuliaDolko/myshop/assets/95941618/004f2e30-f209-4abe-9de5-4b039ead5921">
 <img width="1428" alt="Screenshot 2023-06-10 at 18 14 41" src="https://github.com/JuliaDolko/myshop/assets/95941618/1f4be092-f9c6-48c7-8e50-5b649ecab82e">
 <img width="1440" alt="Screenshot 2023-06-10 at 18 14 59" src="https://github.com/JuliaDolko/myshop/assets/95941618/f47efefa-cac1-495c-af60-78084ce32007">
 <img width="1440" alt="Screenshot 2023-06-10 at 18 14 26" src="https://github.com/JuliaDolko/myshop/assets/95941618/ef4d524f-422e-4b78-b51b-e72ee975d93d">
