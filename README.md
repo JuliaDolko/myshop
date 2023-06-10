@@ -27,4 +27,4 @@ https://jubilant-rail-production.up.railway.app/
 <img width="1414" alt="Screenshot 2023-06-10 at 18 15 19" src="https://github.com/JuliaDolko/myshop/assets/95941618/3613f809-ba88-4576-85bc-039f85ce87a3">
 
 
-
+//LamaDev tutorial used 
