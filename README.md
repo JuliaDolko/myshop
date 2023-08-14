@@ -3,7 +3,7 @@
 
 This is a React-based application that serves as an online store, allowing users to browse and purchase clothes. The project utilizes various technologies and frameworks, including **React, Vite, Strapi, Node.js, and Stripe**.
 
-https://jubilant-rail-production.up.railway.app/
+
 
 ## Features
 
